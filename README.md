@@ -1,11 +1,31 @@
 # 💫 About Me:
-### Data & Business Analyst | Stakeholder Management & Consulting | Communications, Storytelling & AI Ethics<br><br>I don’t just query databases; I find the narrative hidden within them. <br>With **8+ years of experience** leading international projects and strategic communication, <br>I bridge the gap between complex data and evidence-based decision-making.<br><br>---<br><br>### 🌟 My Core Value: Data Storytelling & Ethical Governance<br>* **Strategic Interpretation:** Acting as the "translator" who turns business complexity into clear, evidence-based narratives for **C-Suite & Stakeholders**.<br>* **Visual Narrative:** Expert in crafting dashboards (Tableau/Power BI) that don't just show metrics, but tell the story of the customer journey and operational efficiency.<br>* **AI Ethics & Human Rights:** Leveraging my **MA in Human Rights** to provide a rigorous ethical framework for data analysis.<br>* **Impact-Driven Communication:** Ensuring data insights lead to actual behavioral change and smarter, more responsible decision-making.<br><br>### 🚀 Expertise & Projects<br>* **Data Governance:** Designing KPIs for global frameworks (Erasmus+, LIFE) with a focus on ROI and long-term sustainability.<br>* **SaaS & Product Optimization:** Analyzing customer journeys to refine sales funnels through storytelling and web analytics.<br>* **Responsible Analytics:** Auditing datasets to ensure compliance with ethical standards and emerging AI regulations.<br><br>### 🛠️ Technical Stack<br>* **Analysis:** Python (Pandas, Seaborn), SQL, BigQuery.<br>* **Storytelling & Viz:** Tableau, Power BI, Matplotlib, APIs.<br>* **Strategy:** Stakeholder Discovery, Requirements Gathering, Strategic Marketing.<br><br>---<br><br>> *"Analyzing data means understanding what it reveals and, above all, what it conceals. My goal is to combine technical rigor with an ethical lens to turn information into real, human, and sustainable impact."*<br><br>### 📫 Let's connect!<br>[LinkedIn Profile](https://www.linkedin.com/in/micaela-lafratta-ramos/)
+### Data & Business Analyst | Stakeholder Management & Consulting | Communications, Storytelling & AI Ethics
 
+I don’t just query databases; I find the narrative hidden within them. 
+With **8+ years of experience** leading international projects and strategic communication, 
+I bridge the gap between complex data and evidence-based decision-making.
 
-## 🌐 Socials:
+---
+
+### 🌟 My Core Value: Data Storytelling & Ethical Governance
+* **Strategic Interpretation:** Acting as the "translator" who turns business complexity into clear, evidence-based narratives for **C-Suite & Stakeholders**.
+* **Visual Narrative:** Expert in crafting interactive dashboards that don't just show metrics, but tell the story of the customer journey and operational efficiency.
+* **AI Ethics & Human Rights:** Leveraging my **MA in Human Rights** to provide a rigorous ethical framework, identifying algorithmic bias and ensuring digital dignity.
+* **Impact-Driven Communication:** Ensuring data insights lead to actual behavioral change and smarter, more responsible decision-making.
+
+### 🚀 Expertise & Project Focus
+* **Data Governance:** Designing KPIs for global frameworks (Erasmus+, LIFE) with a focus on ROI and long-term sustainability.
+* **SaaS & Product Optimization:** Analyzing customer journeys to refine sales funnels through storytelling and web analytics.
+* **Methodology:** Expert in **Stakeholder Discovery**, **Requirements Gathering**, and **Strategic Marketing** applied to data environments.
+
+---
+
+> *"Analyzing data means understanding what it reveals and, above all, what it conceals. My goal is to combine technical rigor with an ethical lens to turn information into real, human, and sustainable impact."*
+
+## 🌐 Socials & Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaela-lafratta-ramos/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micaelalafratta.jobs@gmail.com)
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 **Data Engine & Cloud**
 
@@ -22,6 +42,9 @@
 **Collaboration & Management**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
 
 
 
