@@ -7,7 +7,7 @@ I bridge the gap between complex data and evidence-based decision-making.
 
 ---
 
-### 🌟 My Core Value: Data Storytelling & Ethical Governance
+### 🌟 My Core Value: Data Storytelling & AI Ethics
 * **Strategic Interpretation:** Acting as the "translator" who turns business complexity into clear, evidence-based narratives for **C-Suite & Stakeholders**.
 * **Visual Narrative:** Expert in crafting interactive dashboards that don't just show metrics, but tell the story of the customer journey and operational efficiency.
 * **AI Ethics & Human Rights:** Leveraging my **MA in Human Rights** to provide a rigorous ethical framework, identifying algorithmic bias and ensuring digital dignity.
