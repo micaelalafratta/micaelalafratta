@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Data & Business Analyst | Stakeholder Management & Consulting | Communications & Storytelling | AI Ethics
+### Data & Business Analyst | Strategic Consulting & Stakeholder Management | AI Ethics | Communications & Data Storytelling
 
 I don’t just query databases; I find the narrative hidden within them. 
 With **8+ years of experience** leading international projects and strategic communication, 
