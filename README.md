@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 ### Data & Business Analyst | Strategic Consulting & Stakeholder Management | AI Ethics | Communications & Data Storytelling
 
 I don’t just query databases; I find the narrative hidden within them. 
