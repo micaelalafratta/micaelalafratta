@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+### Data & Business Analyst | Stakeholder Management & Consulting | Communications, Storytelling & AI Ethics<br><br>I don’t just query databases; I find the narrative hidden within them. <br>With **8+ years of experience** leading international projects and strategic communication, <br>I bridge the gap between complex data and evidence-based decision-making.<br><br>---<br><br>### 🌟 My Core Value: Data Storytelling & Ethical Governance<br>* **Strategic Interpretation:** Acting as the "translator" who turns business complexity into clear, evidence-based narratives for **C-Suite & Stakeholders**.<br>* **Visual Narrative:** Expert in crafting dashboards (Tableau/Power BI) that don't just show metrics, but tell the story of the customer journey and operational efficiency.<br>* **AI Ethics & Human Rights:** Leveraging my **MA in Human Rights** to provide a rigorous ethical framework for data analysis.<br>* **Impact-Driven Communication:** Ensuring data insights lead to actual behavioral change and smarter, more responsible decision-making.<br><br>### 🚀 Expertise & Projects<br>* **Data Governance:** Designing KPIs for global frameworks (Erasmus+, LIFE) with a focus on ROI and long-term sustainability.<br>* **SaaS & Product Optimization:** Analyzing customer journeys to refine sales funnels through storytelling and web analytics.<br>* **Responsible Analytics:** Auditing datasets to ensure compliance with ethical standards and emerging AI regulations.<br><br>### 🛠️ Technical Stack<br>* **Analysis:** Python (Pandas, Seaborn), SQL, BigQuery.<br>* **Storytelling & Viz:** Tableau, Power BI, Matplotlib, APIs.<br>* **Strategy:** Stakeholder Discovery, Requirements Gathering, Strategic Marketing.<br><br>---<br><br>> *"Analyzing data means understanding what it reveals and, above all, what it conceals. My goal is to combine technical rigor with an ethical lens to turn information into real, human, and sustainable impact."*<br><br>### 📫 Let's connect!<br>[LinkedIn Profile](https://www.linkedin.com/in/micaela-lafratta-ramos/)
 
-<!--
-**micaelalafratta/micaelalafratta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/micaela-lafratta-ramos/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:micaelalafratta.jobs@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+# 📝 Portfolio: key projects:
+<br>[Strategic Talent Retention: Analysis Minimizing Employee Churn](https://github.com/micaelalafratta/Strategic-Talent-Retention-Analysis-Minimizing-Employee-Churn)
+<br>[The Simpsons: Decoding +30 Years of Success via AI Enriched Data Analytics](https://github.com/micaelalafratta/The-Simpsons-Decoding-30-Years-of-Success-via-AI-Enriched-Data-Analytics)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=micaelalafratta&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=micaelalafratta&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelalafratta&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
