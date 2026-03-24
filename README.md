@@ -1,8 +1,8 @@
 # 💫 About Me
-### Data & Business Analyst | Strategic Consulting & Stakeholder Management | AI Ethics | Communications & Data Storytelling
+### Data & Marketing Analyst | Data Storytelling & Business Insights | SQL · Python · Power BI · Tableau
 
 I don’t just query databases; I find the narrative hidden within them. 
-With **8+ years of experience** leading international projects and strategic communication, 
+With experience leading international projects and strategic communication, 
 I bridge the gap between complex data and evidence-based decision-making.
 
 ---
