@@ -1,5 +1,5 @@
 # 💫 About Me
-### Data & Marketing Analyst | Data Storytelling & Business Insights | SQL · Python · Power BI · Tableau
+### Data Analyst | Business Insights & Data Storytelling| SQL · Python · Power BI · Tableau
 
 I don’t just query databases; I find the narrative hidden within them. 
 With experience leading international projects and strategic communication, 
